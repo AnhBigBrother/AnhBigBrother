@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tien Anh Tran (@AnhBigBrother).  
-- 👀 I'm a LeetCode geek and I'm currently learning to be a full-stack developer.
+- 👀 I'm an **algorithm enthusiast** and a **LeetCode geek**. My goal is to become a **full-stack developer**.
 - 👉 My LeetCode profile: https://leetcode.com/u/TienAnh013/.
 
 <!---
