@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tien Anh Tran (@AnhBigBrother).
-- 👀 I'm a **full-stack developer** with a passion for **algorithms** and **LeetCode**.
+- 👀 I'm a **Full-stack developer** with a passion for **Algorithms** and **LeetCode**.
 - My LeetCode profile 👉 https://leetcode.com/u/TienAnh013/.
 - My core skills 👇    
   
