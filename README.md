@@ -3,7 +3,7 @@
 - My LeetCode profile 👉 https://leetcode.com/u/TienAnh013/.
 - My core skills 👇    
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,ts,nextjs,linux,vercel,vscode,vite,npm,git,docker&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,ts,nextjs,linux,vercel,vscode,vite,npm,git,docker&theme=light&perline=9)](https://skillicons.dev)
 
     
 
