@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Tien Anh Tran (@AnhBigBrother).  
-- 👀 I'm an **algorithm enthusiast** and a **LeetCode geek**. My goal is to become a **full-stack developer**.
-- 👉 My LeetCode profile: https://leetcode.com/u/TienAnh013/.
+- 👋 Hi, I’m Tien Anh Tran (@AnhBigBrother).
+- 👀 I'm a **full-stack developer** with a passion for **algorithms** and **LeetCode**.
+- My LeetCode profile 👉 https://leetcode.com/u/TienAnh013/.
+- My skills 👇    
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,ts,nextjs,linux,vercel,vscode,vite,npm,git,docker&theme=light&perline=6)](https://skillicons.dev)
+
+    
 
 <!---
 AnhBigBrother/AnhBigBrother is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
