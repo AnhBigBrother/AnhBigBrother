@@ -1,5 +1,5 @@
-- Software for food 🦴, Leetcode for fun 👻
-- Leetcode 👉 https://leetcode.com/u/TienAnh013/.
+- Dev for food 🦴, grind algo for fun 👻
+- Leetcode profile 👉 https://leetcode.com/u/TienAnh013/.
 - Software skills 👇    
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,ts,nodejs,nestjs,express,prisma,mongodb,postgres,redis,linux,vite,npm,git,docker&theme=light&perline=10)](https://skillicons.dev)
