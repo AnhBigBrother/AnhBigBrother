@@ -1,4 +1,4 @@
-- Dev for food 🦴, grind algorithms for fun 👻
+- Dev for food 🦴, Leetcode for fun 👻
 - Leetcode profile 👉 https://leetcode.com/u/TienAnh013/.
 - Software skills 👇    
   
