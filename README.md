@@ -1,3 +1,3 @@
-- Dev for food 🦴 [https://tien-anh-tran-1320.vercel.app/](https://tien-anh-tran-1320.vercel.app/)  
+- Dev for food 🦴 [https://tienanhtran.vercel.app/](https://tienanhtran.vercel.app/)  
 - Leetcode for fun 👻 [https://leetcode.com/u/TienAnh013/](https://leetcode.com/u/TienAnh013/)   
 
